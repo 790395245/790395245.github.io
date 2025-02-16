@@ -3,27 +3,27 @@ export const themeConfig = {
   // 站点信息
   siteMeta: {
     // 站点标题
-    title: "Curve",
+    title: "RuoRuo",
     // 站点描述
-    description: "Hello World",
+    description: "若若的个人博客",
     // 站点logo
-    logo: "/images/logo/logo.webp",
+    logo: "https://blog.rz15.cn/wp-content/uploads/2024/12/cropped-cropped-srchttp___c-ssl.duitang.com_uploads_item_202005_03_20200503193405_QavAd.thumb_.1000_0.jpegreferhttp___c-ssl.duitang-1.webp",
     // 站点地址
-    site: "https://blog.imsyy.top",
+    site: "https://ruo.ge",
     // 语言
     lang: "zh-CN",
     // 作者
     author: {
-      name: "Admin",
-      cover: "/images/logo/logo.webp",
-      email: "114514@gmail.com",
-      link: "https://www.imsyy.top",
+      name: "RuoRuo",
+      cover: "https://blog.rz15.cn/wp-content/uploads/2024/12/cropped-cropped-srchttp___c-ssl.duitang.com_uploads_item_202005_03_20200503193405_QavAd.thumb_.1000_0.jpegreferhttp___c-ssl.duitang-1.webp",
+      email: "haoruo.chen@qq.com",
+      link: "https://ruo.ge",
     },
   },
   // 备案信息
-  icp: "萌ICP备114514号",
+  icp: "沪ICP备2024092430号-1",
   // 建站日期
-  since: "2020-07-28",
+  since: "2025-02-26",
   // 每页文章数据
   postSize: 8,
   // inject
@@ -40,7 +40,7 @@ export const themeConfig = {
           rel: "alternate",
           type: "application/rss+xml",
           title: "RSS",
-          href: "https://blog.24811213.xyz/rss.xml",
+          href: "https://ruo.ge/rss.xml",
         },
       ],
       // 预载 CDN
@@ -148,14 +148,14 @@ export const themeConfig = {
       name: "博客",
       list: [
         {
-          icon: "/images/logo/logo.webp",
+          icon: "https://blog.rz15.cn/wp-content/uploads/2024/12/cropped-cropped-srchttp___c-ssl.duitang.com_uploads_item_202005_03_20200503193405_QavAd.thumb_.1000_0.jpegreferhttp___c-ssl.duitang-1.webp",
           name: "主站",
           url: "/",
         },
         {
-          icon: "/images/logo/logo.webp",
-          name: "博客镜像站",
-          url: "https://blog-backup.imsyy.top/",
+          icon: "https://blog.rz15.cn/wp-content/uploads/2024/12/cropped-cropped-srchttp___c-ssl.duitang.com_uploads_item_202005_03_20200503193405_QavAd.thumb_.1000_0.jpegreferhttp___c-ssl.duitang-1.webp",
+          name: "WordPress站",
+          url: "https://blog.rz15.cn/",
         },
       ],
     },
@@ -163,17 +163,17 @@ export const themeConfig = {
       name: "服务",
       list: [
         {
-          icon: "https://pic.efefee.cn/uploads/2024/04/08/6613465358077.png",
+          icon: "https://nav.imsyy.top/favicon.ico",
           name: "起始页",
           url: "https://nav.imsyy.top/",
         },
         {
-          icon: "https://pic.efefee.cn/uploads/2024/04/08/661346d418ad7.png",
+          icon: "https://hot.imsyy.top/favicon.ico",
           name: "今日热榜",
           url: "https://hot.imsyy.top/",
         },
         {
-          icon: "https://pic.efefee.cn/uploads/2024/04/08/66134722586fa.png",
+          icon: "https://status.imsyy.top/favicon.ico",
           name: "站点监测",
           url: "https://status.imsyy.top/",
         },
@@ -183,34 +183,9 @@ export const themeConfig = {
       name: "项目",
       list: [
         {
-          icon: "/images/logo/logo.webp",
+          icon: "https://blog.rz15.cn/wp-content/uploads/2024/12/cropped-cropped-srchttp___c-ssl.duitang.com_uploads_item_202005_03_20200503193405_QavAd.thumb_.1000_0.jpegreferhttp___c-ssl.duitang-1.webp",
           name: "Curve",
-          url: "https://github.com/imsyy/vitepress-theme-curve",
-        },
-        {
-          icon: "https://pic.efefee.cn/uploads/2024/04/07/66124f5fc63c8.png",
-          name: "SPlayer",
-          url: "https://github.com/imsyy/SPlayer",
-        },
-        {
-          icon: "https://pic.efefee.cn/uploads/2024/04/08/6613465358077.png",
-          name: "Snavigation",
-          url: "https://github.com/imsyy/SPlayer",
-        },
-        {
-          icon: "/images/logo/logo.webp",
-          name: "Home",
-          url: "https://github.com/imsyy/home",
-        },
-        {
-          icon: "https://pic.efefee.cn/uploads/2024/04/08/661346d418ad7.png",
-          name: "DailyHotApi",
-          url: "https://github.com/imsyy/DailyHotApi",
-        },
-        {
-          icon: "https://pic.efefee.cn/uploads/2024/04/08/66134722586fa.png",
-          name: "site-status",
-          url: "https://github.com/imsyy/site-status",
+          url: "https://github.com/790395245/790395245.github.io",
         },
       ],
     },
@@ -227,9 +202,9 @@ export const themeConfig = {
       coverLayout: 'both',
       // 默认封面(随机展示)
       defaultCover: [
-        'https://example.com/1.avif',
-        'https://example.com/2.avif',
-        'https://example.com/3.avif'
+        'https://blog.rz15.cn/wp-content/uploads/2025/02/cropped-企业微信截图_17392409111989.png',
+        'https://blog.rz15.cn/wp-content/uploads/2025/02/a9c73a4cfc3ed6f8365aad8bf3fc954-scaled.jpg',
+        'https://blog.rz15.cn/wp-content/uploads/2025/02/5aac3f86fdfd5aa30189c1912ae9b89e.jpg'
       ]
     }
   },
@@ -239,27 +214,19 @@ export const themeConfig = {
     social: [
       {
         icon: "email",
-        link: "mailto:one@imsyy.top",
+        link: "haoruo.chen@qq.com",
       },
       {
         icon: "github",
-        link: "https://www.github.com/imsyy/",
+        link: "https://www.github.com/790395245/",
       },
       {
-        icon: "telegram",
-        link: "https://t.me/bottom_user",
-      },
-      {
-        icon: "bilibili",
-        link: "https://space.bilibili.com/98544142",
+        icon: "douyin",
+        link: "https://v.douyin.com/iPXNvQRn",
       },
       {
         icon: "qq",
-        link: "https://res.abeim.cn/api/qq/?qq=1539250352",
-      },
-      {
-        icon: "twitter-x",
-        link: "https://twitter.com/iimmsyy",
+        link: "https://res.abeim.cn/api/qq/?qq=790395245",
       },
     ],
     // sitemap
@@ -276,10 +243,7 @@ export const themeConfig = {
       {
         text: "项目",
         items: [
-          { text: "Home", link: "https://github.com/imsyy/home/", newTab: true },
-          { text: "SPlayer", link: "https://github.com/imsyy/SPlayer/", newTab: true },
-          { text: "DailyHotApi", link: "https://github.com/imsyy/DailyHotApi/", newTab: true },
-          { text: "Snavigation", link: "https://github.com/imsyy/Snavigation/", newTab: true },
+          { text: "Blog", link: "https://github.com/790395245/790395245.github.io", newTab: true },
         ],
       },
       {
@@ -302,14 +266,8 @@ export const themeConfig = {
       {
         text: "服务",
         items: [
-          { text: "站点状态", link: "https://status.imsyy.top/", newTab: true },
-          { text: "一个导航", link: "https://nav.imsyy.top/", newTab: true },
-          { text: "站点订阅", link: "https://blog.24811213.xyz/rss.xml", newTab: true },
-          {
-            text: "反馈投诉",
-            link: "https://eqnxweimkr5.feishu.cn/share/base/form/shrcnCXCPmxCKKJYI3RKUfefJre",
-            newTab: true,
-          },
+          { text: "一个导航", link: "https://www.rz15.cn/", newTab: true },
+          { text: "站点订阅", link: "https://ruo.ge/rss.xml", newTab: true },
         ],
       },
     ],
@@ -342,7 +300,7 @@ export const themeConfig = {
     // 站点简介
     hello: {
       enable: true,
-      text: "这里有关于<strong>开发</strong>相关的问题和看法，也会有一些<strong>奇技淫巧</strong>的分享，其中大部分内容会侧重于<strong>前端开发</strong>。希望你可以在这里找到对你有用的知识和教程。",
+      text: "上班摸鱼的时候，会来写一些东西，分享自己的生活和爱好。主要围绕<strong>IT技术</strong>、<strong>汽车</strong>、<strong>3D打印</strong>，以及一些有趣的事。",
     },
     // 目录
     toc: {
@@ -357,8 +315,8 @@ export const themeConfig = {
       enable: true,
       // 倒计时日期
       data: {
-        name: "春节",
-        date: "2025-01-29",
+        name: "生日",
+        date: "2025-04-15",
       },
     },
     // 站点数据
@@ -401,9 +359,9 @@ export const themeConfig = {
   rewardData: {
     enable: true,
     // 微信二维码
-    wechat: "https://pic.efefee.cn/uploads/2024/04/07/66121049d1e80.webp",
+    wechat: "https://blog.rz15.cn/wp-content/uploads/2025/02/mm_facetoface_collect_qrcode_1739720350104.jpg",
     // 支付宝二维码
-    alipay: "https://pic.efefee.cn/uploads/2024/04/07/661206631d3b5.webp",
+    alipay: "https://blog.rz15.cn/wp-content/uploads/2025/02/1739720378997.jpg",
   },
   // 图片灯箱
   fancybox: {

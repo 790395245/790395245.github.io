@@ -5,7 +5,7 @@
       <!-- 介绍 -->
       <div class="about-item hello">
         <span class="text1">你好，很高兴认识你👋</span>
-        <span class="text2 title2">我是 九天之上</span>  
+        <span class="text2 title2">我是 RuoRuo</span>
         <span class="text3">是一名 又菜又爱玩的小白</span>
       </div>
       <!-- 追求 -->
