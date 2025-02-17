@@ -38,7 +38,7 @@
         </div>
       </div>
       <!-- 生涯 -->
-      <div class="about-item like image" style="background-image: url(https://pan.811520.xyz/2024-10/1728445789536.webp)">
+      <div class="about-item career image" style="background-image: url(https://pan.811520.xyz/2024-10/1728445789536.webp)">
         <span class="tip">生涯</span>
         <span class="title2">
           <i>無限進步</i>
@@ -149,7 +149,7 @@
         <div class="about-item info">
           <div class="info-item">
             <span class="info-name">生于</span>
-            <span class="info-num" style="--color: #43a6c6">上海</span>
+            <span class="info-num" style="--color: #43a6c6">1997</span>
           </div>
           <div class="info-item">
             <span class="info-name">现在职业</span>
