@@ -21,25 +21,25 @@ import Link from "@/views/Link.vue";
 
 ### 我的友链信息
 
-- 名称：`九天之上`
-- 描述：`又菜又爱玩，万事都不难`
-- 地址：`https://blog.24811213.xyz/`
-- 头像：`https://blog.24811213.xyz/favicon.ico`
-- 站点图片：`https://s0.wp.com/mshots/v1/https://blog.24811213.xyz/?w=400&h=300`
-- 订阅：`https://blog.24811213.xyz/rss.xml`
+- 名称：`RuoRuo`
+- 描述：`一个兴趣广泛，喜欢折腾的菜鸡`
+- 地址：`https://ruo.ge/`
+- 头像：`https://ruo.ge/favicon.ico`
+- 站点图片：`https://s0.wp.com/mshots/v1/https://ruo.ge/?w=400&h=300`
+- 订阅：`https://ruo.ge//rss.xml`
 
 ```yml
-- name: 九天之上
-  desc: 又菜又爱玩，万事都不难
-  url: https://blog.24811213.xyz/
-  avatar: https://blog.24811213.xyz/favicon.ico
-  screenshot: https://s0.wp.com/mshots/v1/https://blog.24811213.xyz/?w=400&h=300
-  rss: https://blog.24811213.xyz/rss.xml
+- name: RuoRuo
+  desc: 一个兴趣广泛，喜欢折腾的菜鸡
+  url: https://ruo.ge/
+  avatar: https://ruo.ge/favicon.ico
+  screenshot: https://s0.wp.com/mshots/v1/https://ruo.ge/?w=400&h=300
+  rss: https://ruo.ge//rss.xml
 ```
 
 ### 申请友链
 
-- 我已添加 [九天之上](https://blog.24811213.xyz/) 的友情链接。
+- 我已添加 [RuoRuo](https://ruo.ge/) 的友情链接。
 - **请多多进行互动后再来进行友链添加**，若为首次评论直接申请友链，将不会通过。
 - 本站不添加 **采集站**、**纯搬运站点**、**论坛类站点** 等非 **个人博客** 类型的站点。
 - 站点目前可以在 **中国大陆区域** 正常访问。

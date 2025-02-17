@@ -13,7 +13,7 @@
         <span class="tip">追求</span>
         <span class="title2">源于</span>
         <span class="title2">热爱而去开发</span>
-        <span class="title2">优秀的作品</span>
+        <span class="title2">最好能赚点钱</span>
       </div>
     </div>
     <div class="about-content" style="grid-template-columns: 2fr 3fr">
@@ -38,38 +38,33 @@
         </div>
       </div>
       <!-- 生涯 -->
-      <div class="about-item career">
+      <div class="about-item career" style="background-image: url(https://pan.811520.xyz/2024-10/1728445789536.webp)">
         <span class="tip">生涯</span>
         <span class="title2">
           <i>無限進步</i>
         </span>
         <div class="list">
-          <span class="list-item" style="--color: #357ef5">法学学士</span>
-          <span class="list-item" style="--color: #eb372a">房地产营销管理</span>
+          <span class="list-item" style="--color: #357ef5">生物硕士</span>
+          <span class="list-item" style="--color: #eb372a">生物信息工程师</span>
         </div>
-        <img
-          class="career-img"
-          src="https://pan.811520.xyz/2024-10/1728445789536.webp"
-          alt="career"
-        />
       </div>
     </div>
     <div class="about-content" style="grid-template-columns: 3fr 2fr">
       <!-- 性格 -->
       <div class="about-item character" style="--color: #4298b4">
         <span class="tip">性格</span>
-        <span class="title2">执政官</span>
-        <span class="title2" style="color: var(--color)">ESFJ-A</span>
+        <span class="title2">调停者</span>
+        <span class="title2" style="color: var(--color)">INFP-T</span>
         <span class="more">
           在
           <a href="https://www.16personalities.com/ch/" target="_blank">16personalities</a>
           了解更多关于
-          <a href="https://www.16personalities.com/ch/esfj-%E4%BA%BA%E6%A0%BC" target="_blank">
-            执政官
+          <a href="https://www.16personalities.com/ch/infp-%E4%BA%BA%E6%A0%BC" target="_blank">
+            调停者
           </a>
         </span>
         <img
-          src="https://pan.811520.xyz/2024-11/1730434481-1730434479289.webp"
+          src="https://blog.rz15.cn/wp-content/uploads/2025/02/a9c73a4cfc3ed6f8365aad8bf3fc954-2-scaled.jpg"
           alt="male"
           class="male"
         />
@@ -77,8 +72,8 @@
       <!-- 座右铭 -->
       <div class="about-item">
         <span class="tip">座右铭</span>
-        <span class="title1" style="margin-top: 20px">脚踏实地，</span>
-        <span class="title2">一丝不苟。</span>
+        <span class="title1" style="margin-top: 20px">千金散尽</span>
+        <span class="title2">还复来</span>
       </div>
     </div>
     <div class="about-content" style="grid-template-columns: 1fr 1fr">
@@ -90,10 +85,12 @@
         "
       >
         <div class="image-content">
-          <span class="tip">关注偏好</span>
+          <span class="tip">兴趣偏好</span>
           <span class="title2">数码科技</span>
+          <span class="title1">汽车</span>
+          <span class="title2">3D打印</span>
           <div class="image-desc">
-            <span class="left">手机、电脑及软硬件</span>
+            <span class="left">一切有趣的事物</span>
           </div>
         </div>
       </div>
@@ -106,7 +103,7 @@
       >
         <div class="image-content">
           <span class="tip">音乐偏好</span>
-          <span class="title2">华语流行、摇滚、中国风、民谣</span>
+          <span class="title2">华语、粤语、流行</span>
           <div class="image-desc">
             <span class="left">一起欣赏更多音乐</span>
           </div>
@@ -142,18 +139,18 @@
       <div class="about-item child">
         <div
           class="about-item map image"
-          style="background-image: url(https://pan.811520.xyz/2024-10/1730361853-1730361845894.webp)"
+          style="background-image: url(https://blog.rz15.cn/wp-content/uploads/2025/02/企业微信截图_17397735685114.png)"
         >
-          <span class="position">我现在住在 <strong>中国，武汉</strong></span>
+          <span class="position">我现在住在 <strong>中国，上海</strong></span>
         </div>
         <div class="about-item info">
           <div class="info-item">
             <span class="info-name">生于</span>
-            <span class="info-num" style="--color: #43a6c6">保密</span>
+            <span class="info-num" style="--color: #43a6c6">上海</span>
           </div>
           <div class="info-item">
             <span class="info-name">现在职业</span>
-            <span class="info-num" style="--color: #dfac46">资深房地产营销管理</span>
+            <span class="info-num" style="--color: #dfac46">生物信息工程师</span>
           </div>
         </div>
       </div>
@@ -164,7 +161,7 @@
         <span class="tip">心路历程</span>
         <span class="title2">为什么建站？</span>
         <p class="text">
-          创建这个站的时候，想要就是能够有一个自己能够<strong>积累知识</strong>、<strong>积累兴趣</strong>的地方。和他人分享，会让这些成为<strong>积累和沉淀</strong>。如果能够帮助到更多的人，帮助更多人解决问题，那一定是非常棒的事情。
+          最初搭建个人博客，是为了<strong>上班摸鱼</strong>。但渐渐发现，和他人分享，会让这些成为<strong>积累和沉淀</strong>。如果能够帮助到更多的人，帮助更多人解决问题，那一定是非常棒的事情。
         </p>
         <p class="text">
           这里内容很杂，<strong>工作、生活、资源分享……</strong>什么都有，可能不太会有很多人看，权当是做个自我记录吧。当然，如果某篇文章能够帮助到你，那我也是很开心的。

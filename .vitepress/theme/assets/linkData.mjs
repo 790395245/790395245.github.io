@@ -48,7 +48,21 @@ const linkData = [
   {
     type: "friends",
     typeName: "小伙伴们",
-    typeDesc: "我们在一起，共同进步",
+    typeDesc: "虚位以待",
+    typeList: [
+      {
+        name: "我自己的WordPress",
+        avatar: "https://ruo.ge/favicon.ico",
+        desc: "虚位以待",
+        url: "https://blog.rz15.cn/",
+      },
+    ],
+  },
+  // 陌生人
+  {
+    type: "stranger",
+    typeName: "路人",
+    typeDesc: "暂时还不熟",
     typeList: [
       {
         name: "青云志",

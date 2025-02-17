@@ -55,6 +55,8 @@ onBeforeUnmount(() => {
   background-color: var(--main-card-background);
   z-index: 9999;
   .logo {
+    border-radius: 25%;
+    border: 3px solid #ffffff; /* 可选：添加边框 */
     width: 100px;
     height: 100px;
     animation: loading 2s infinite;
