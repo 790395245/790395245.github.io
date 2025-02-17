@@ -23,7 +23,7 @@ export const themeConfig = {
   // 备案信息
   icp: "沪ICP备2024092430号-1",
   // 建站日期
-  since: "2025-02-26",
+  since: "2025-02-16",
   // 每页文章数据
   postSize: 8,
   // inject
@@ -169,14 +169,9 @@ export const themeConfig = {
           url: "https://nav.imsyy.top/",
         },
         {
-          icon: "https://hot.imsyy.top/favicon.ico",
+          icon: "https://hot.imsyy.top/ico/favicon.ico",
           name: "今日热榜",
           url: "https://hot.imsyy.top/",
-        },
-        {
-          icon: "https://status.imsyy.top/favicon.ico",
-          name: "站点监测",
-          url: "https://status.imsyy.top/",
         },
       ],
     },
