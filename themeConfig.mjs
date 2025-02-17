@@ -270,15 +270,15 @@ export const themeConfig = {
   },
   // 评论
   comment: {
-    enable: false,
+    enable: true,
     // 评论系统选择
     // artalk / twikoo
     type: "artalk",
     // artalk
     // https://artalk.js.org/
     artalk: {
-      site: "",
-      server: "",
+      site: "ruo.ge",
+      server: "https://minio-api.rz15.cn/",
     },
     // twikoo
     // https://twikoo.js.org/
