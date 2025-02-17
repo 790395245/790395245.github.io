@@ -83,8 +83,8 @@ export const themeConfig = {
         {
           crossorigin: "anonymous",
           rel: "stylesheet",
-          // href: "https://www.rz15.cn/file/iconfont.css",
-          href: "https://cdn2.codesign.qq.com/icons/g5ZpEgx3z4VO6j2/latest/iconfont.css",
+          href: "https://www.rz15.cn/file/iconfont.css",
+          // href: "https://cdn2.codesign.qq.com/icons/g5ZpEgx3z4VO6j2/latest/iconfont.css",
         },
       ],
       // Embed code
