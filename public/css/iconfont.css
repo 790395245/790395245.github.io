@@ -5,7 +5,16 @@
   url('iconfont.woff?t=5b2497eb5c56391e4dd19edbb0f101d3') format('woff2'),
   url('iconfont.woff?t=5b2497eb5c56391e4dd19edbb0f101d3') format('woff'), /* chrome、firefox */
   url('iconfont.ttf?t=5b2497eb5c56391e4dd19edbb0f101d3') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
-  url('iconfont.svg?t=5b2497eb5c56391e4dd19edbb0f101d3#iconfont') format('svg'); /* iOS 4.1- */
+  url('iconfont.svg?t=5b2497eb5c56391e4dd19edbb0f101d3#iconfont') format('svg'), /* iOS 4.1- */
+  url('//at.alicdn.com/t/c/font_4829532_zno1dtpgbr.woff2?t=1739760517469') format('woff2'),
+  url('//at.alicdn.com/t/c/font_4829532_zno1dtpgbr.woff?t=1739760517469') format('woff'),
+  url('//at.alicdn.com/t/c/font_4829532_zno1dtpgbr.ttf?t=1739760517469') format('truetype');
+}
+
+
+@font-face {
+  font-family: "iconfont"; /* Project id 4829532 */
+  src: 
 }
 
 .iconfont {
@@ -14,6 +23,10 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icon_TikTok:before {
+  content: "\e603";
 }
 
 .icon-menu:before {
@@ -292,3 +305,5 @@
 .icon-volume-down:before {
   content: "\e064";
 }
+
+
