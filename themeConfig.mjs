@@ -83,7 +83,8 @@ export const themeConfig = {
         {
           crossorigin: "anonymous",
           rel: "stylesheet",
-          href: "https://cdn2.codesign.qq.com/icons/g5ZpEgx3z4VO6j2/latest/iconfont.css",
+          href: "/css/iconfont.css",
+          // href: "https://cdn2.codesign.qq.com/icons/g5ZpEgx3z4VO6j2/latest/iconfont.css",
         },
       ],
       // Embed code
@@ -221,7 +222,7 @@ export const themeConfig = {
         link: "https://www.github.com/790395245/",
       },
       {
-        icon: "douyin",
+        icon: "icon_TikTok",
         link: "https://v.douyin.com/iPXNvQRn",
       },
       {
