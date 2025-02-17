@@ -400,3 +400,10 @@
     color: var(--author-color);
     text-decoration: none;
 }
+
+.author {
+    border-radius: 50%; /* 将图片设置为圆形 */
+    /* 或者使用具体的像素值来得到圆角效果，例如 */
+    /* border-radius: 10px; */
+    border: 3px solid #ffffff; /* 可选：添加边框 */
+}
