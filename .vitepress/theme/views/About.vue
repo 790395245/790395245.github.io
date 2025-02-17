@@ -64,7 +64,7 @@
           </a>
         </span>
         <img
-          src="https://blog.rz15.cn/wp-content/uploads/2025/02/a9c73a4cfc3ed6f8365aad8bf3fc954-2-scaled.jpg"
+          src="https://blog.rz15.cn/wp-content/uploads/2025/02/微信图片_20250217150318.png"
           alt="male"
           class="male"
         />
@@ -87,7 +87,7 @@
         <div class="image-content">
           <span class="tip">兴趣偏好</span>
           <span class="title2">数码科技</span>
-          <span class="title1">汽车</span>
+          <span class="title2">汽车</span>
           <span class="title2">3D打印</span>
           <div class="image-desc">
             <span class="left">一切有趣的事物</span>
@@ -103,7 +103,10 @@
       >
         <div class="image-content">
           <span class="tip">音乐偏好</span>
-          <span class="title2">华语、粤语、流行</span>
+          <span class="title2">华语</span>
+          <span class="title2">粤语</span>
+          <span class="title2">流行</span>
+          <span class="title2">Live</span>
           <div class="image-desc">
             <span class="left">一起欣赏更多音乐</span>
           </div>

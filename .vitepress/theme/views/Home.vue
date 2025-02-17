@@ -126,6 +126,21 @@ watch(
   () => store.loadingStatus,
   (val) => restoreScrollY(val),
 );
+
+onMounted(() => {
+  // 添加统计代码
+  const script1 = document.createElement('script');
+  script1.charset = 'UTF-8';
+  script1.id = 'LA_COLLECT';
+  script1.src = '//sdk.51.la/js-sdk-pro.min.js';
+  document.head.appendChild(script1);
+
+  script1.onload = () => {
+    const script2 = document.createElement('script');
+    script2.textContent = 'LA.init({id:"3LHtpG10Ld2VdocU",ck:"3LHtpG10Ld2VdocU"})';
+    document.head.appendChild(script2);
+  }
+});
 </script>
 
 <style lang="scss" scoped>
