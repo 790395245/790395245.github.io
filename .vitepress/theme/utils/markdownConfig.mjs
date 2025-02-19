@@ -1,10 +1,12 @@
 import { tabsMarkdownPlugin } from "vitepress-plugin-tabs";
 import markdownItAttrs from "markdown-it-attrs";
 import container from "markdown-it-container";
+import { MermaidMarkdown, MermaidPlugin } from 'vitepress-plugin-mermaid';
 
 // markdown-it
 const markdownConfig = (md, themeConfig) => {
   // 插件
+  md.use(MermaidMarkdown);
   md.use(markdownItAttrs);
   md.use(tabsMarkdownPlugin);
   // timeline

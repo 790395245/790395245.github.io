@@ -13,7 +13,7 @@ import markdownConfig from "./theme/utils/markdownConfig.mjs";
 import AutoImport from "unplugin-auto-import/vite";
 import Components from "unplugin-vue-components/vite";
 import path from "path";
-import {withMermaid} from "vitepress-plugin-mermaid";
+import {withMermaid, MermaidPlugin } from "vitepress-plugin-mermaid";
 
 // 获取全局数据
 const postData = await getAllPosts();
@@ -90,6 +90,7 @@ export default withMermaid(withPwa(
           include: [/\.vue$/, /\.vue\?vue/, /\.md$/],
           dts: ".vitepress/components.d.ts",
         }),
+        MermaidPlugin(),
       ],
       resolve: {
         // 配置路径别名
@@ -117,6 +118,12 @@ export default withMermaid(withPwa(
             pure_funcs: ["console.log"],
           },
         },
+      },
+      optimizeDeps: {
+        include: ['mermaid'],
+      },
+      ssr: {
+        noExternal: ['mermaid'],
       },
     },
     // PWA
