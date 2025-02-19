@@ -38,7 +38,7 @@
         </div>
       </div>
       <!-- 生涯 -->
-      <div class="about-item career image" style="background-image: url(https://pan.811520.xyz/2024-10/1728445789536.webp)">
+      <div class="about-item career image" style="background-image: url(https://blog.rz15.cn/wp-content/uploads/2025/02/cropped-企业微信截图_17392409111989.png)">
         <span class="tip">生涯</span>
         <span class="title2">
           <i>無限進步</i>
