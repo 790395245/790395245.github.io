@@ -169,7 +169,7 @@ export const themeConfig = {
           url: "https://nav.imsyy.top/",
         },
         {
-          icon: "https://hot.imsyy.top/ico/favicon.ico",
+          icon: "https://hot.imsyy.top/ico/favicon.png",
           name: "今日热榜",
           url: "https://hot.imsyy.top/",
         },

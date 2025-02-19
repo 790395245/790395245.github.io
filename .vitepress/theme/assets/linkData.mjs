@@ -20,7 +20,7 @@ const linkData = [
       },
       {
         name: "杜老师说",
-        avatar: "https://blog.linux-qitong.top/img/avatar.jpg",
+        avatar: "https://blog.linux-qitong.top/img/favicon.webp",
         desc: "高级网络工程师，网站技术运营总监，系统运维、架构设计以及优化专家",
         url: "https://dusays.com/",
       },
@@ -53,7 +53,7 @@ const linkData = [
       {
         name: "我自己的WordPress",
         avatar: "https://ruo.ge/favicon.ico",
-        desc: "虚位以待",
+        desc: "有点卡顿，可以看看",
         url: "https://blog.rz15.cn/",
       },
     ],
