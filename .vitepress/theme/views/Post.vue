@@ -78,7 +78,7 @@
             </a>
           </div>
           <a
-            href="https://eqnxweimkr5.feishu.cn/share/base/form/shrcnCXCPmxCKKJYI3RKUfefJre"
+            href="mailto:haoruo.chen@qq.com"
             class="report"
             target="_blank"
           >
@@ -103,6 +103,7 @@
 import { formatTimestamp } from "@/utils/helper";
 import { generateId } from "@/utils/commonTools";
 import initFancybox from "@/utils/initFancybox";
+import mermaid from "mermaid";
 
 const { page, theme, frontmatter } = useData();
 
@@ -117,6 +118,14 @@ const postMetaData = computed(() => {
 
 onMounted(() => {
   initFancybox(theme.value);
+  // 初始化mermaid
+  mermaid.initialize({
+    startOnLoad: true,
+    theme: 'default',
+    securityLevel: 'loose'
+  });
+  // 渲染mermaid图表
+  mermaid.init(undefined, document.querySelectorAll('.mermaid'));
 });
 </script>
 
