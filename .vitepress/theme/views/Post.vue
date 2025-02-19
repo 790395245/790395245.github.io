@@ -103,7 +103,6 @@
 import { formatTimestamp } from "@/utils/helper";
 import { generateId } from "@/utils/commonTools";
 import initFancybox from "@/utils/initFancybox";
-import mermaid from "mermaid";
 
 const { page, theme, frontmatter } = useData();
 
@@ -118,14 +117,6 @@ const postMetaData = computed(() => {
 
 onMounted(() => {
   initFancybox(theme.value);
-  // 初始化mermaid
-  mermaid.initialize({
-    startOnLoad: true,
-    theme: 'default',
-    securityLevel: 'loose'
-  });
-  // 渲染mermaid图表
-  mermaid.init(undefined, document.querySelectorAll('.mermaid'));
 });
 </script>
 

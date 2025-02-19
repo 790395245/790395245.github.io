@@ -13,6 +13,7 @@ import markdownConfig from "./theme/utils/markdownConfig.mjs";
 import AutoImport from "unplugin-auto-import/vite";
 import Components from "unplugin-vue-components/vite";
 import path from "path";
+import withMermaid from "vitepress-plugin-mermaid";
 
 // 获取全局数据
 const postData = await getAllPosts();
@@ -21,7 +22,7 @@ const postData = await getAllPosts();
 const themeConfig = await getThemeConfig();
 
 // https://vitepress.dev/reference/site-config
-export default withPwa(
+export default withMermaid(withPwa(
   defineConfig({
     title: themeConfig.siteMeta.title,
     description: themeConfig.siteMeta.description,
@@ -194,5 +195,5 @@ export default withPwa(
         ],
       },
     },
-  }),
+  })),
 );
