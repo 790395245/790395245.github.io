@@ -3,9 +3,9 @@ export const themeConfig = {
   // 站点信息
   siteMeta: {
     // 站点标题
-    title: "RuoRuo",
+    title: "RuoGe",
     // 站点描述
-    description: "若若的个人博客",
+    description: "歌落繁华，若影随风",
     // 站点logo
     logo: "https://blog.rz15.cn/wp-content/uploads/2024/12/cropped-cropped-srchttp___c-ssl.duitang.com_uploads_item_202005_03_20200503193405_QavAd.thumb_.1000_0.jpegreferhttp___c-ssl.duitang-1.webp",
     // 站点地址
@@ -336,7 +336,7 @@ export const themeConfig = {
   music: {
     enable: false,
     // url
-    url: "https://api-meting.example.com",
+    url: "https://meting-dd.2333332.xyz/",
     // id
     id: 9379831714,
     // netease / tencent / kugou
