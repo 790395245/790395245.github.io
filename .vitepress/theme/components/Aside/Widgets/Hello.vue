@@ -64,6 +64,7 @@ const changeHello = () => {
 };
 
 // 是否具有用户
+// 是否具有用户
 const isHasUser = () => {
   // 检查本地存储
   const userData = localStorage.getItem("ArtalkUser");
@@ -72,10 +73,13 @@ const isHasUser = () => {
   // 获取用户数据
   const parsedData = JSON.parse(userData);
   console.log("parsedData:", parsedData); // 调试信息
-  const { name = parsedData.name === '' ? '陌生人' : parsedData.name } = parsedData;
+  // 解构赋值，检查name是否为空字符串或未定义，如果是，则赋予默认值
+  const { name = parsedData.name || "陌生人" } = parsedData;
+  // 如果需要特别处理空字符串，可以这样：
+  const safeName = name.trim() === '' ? "陌生人" : name;
   const hello = ["很高兴见到你", "好久不见", "欢迎回来"];
   // 随机问候语
-  helloText.value = hello[Math.floor(Math.random() * hello.length)] + "，" + name;
+  helloText.value = hello[Math.floor(Math.random() * hello.length)] + "，" + safeName;
   return true;
 };
 
