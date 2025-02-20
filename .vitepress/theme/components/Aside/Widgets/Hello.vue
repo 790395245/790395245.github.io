@@ -72,7 +72,7 @@ const isHasUser = () => {
   // 获取用户数据
   const parsedData = JSON.parse(userData);
   console.log("parsedData:", parsedData); // 调试信息
-  const { nick = "陌生人" } = parsedData;
+  const { name = "陌生人" } = parsedData;
   const hello = ["很高兴见到你", "好久不见", "欢迎回来"];
   // 随机问候语
   helloText.value = hello[Math.floor(Math.random() * hello.length)] + "，" + nick;
