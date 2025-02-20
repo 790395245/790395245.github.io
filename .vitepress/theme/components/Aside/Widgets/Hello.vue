@@ -75,7 +75,7 @@ const isHasUser = () => {
   const { name = "陌生人" } = parsedData;
   const hello = ["很高兴见到你", "好久不见", "欢迎回来"];
   // 随机问候语
-  helloText.value = hello[Math.floor(Math.random() * hello.length)] + "，" + nick;
+  helloText.value = hello[Math.floor(Math.random() * hello.length)] + "，" + name;
   return true;
 };
 
