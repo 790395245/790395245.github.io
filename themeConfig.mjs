@@ -311,8 +311,8 @@ export const themeConfig = {
       enable: true,
       // 倒计时日期
       data: {
-        name: "生日",
-        date: "2025-04-15",
+        name: "领证",
+        date: "2025-05-20",
       },
     },
     // 站点数据

@@ -26,9 +26,6 @@
       <!-- 侧边栏 -->
       <Aside />
     </div>
-    <div class="footer-info">
-      <a target="_blank" href="http://www.freecdn.vip/?zzwz" title="免费云加速（FreeCDN），为您免费提供网站加速和网站防御（DDOS、CC攻击）" alt="免费云加速（FreeCDN），为您免费提供网站加速和网站防御（DDOS、CC攻击）">本站由免费云加速（FreeCDN）提供网站加速和攻击防御服务</a>
-    </div>
   </div>
 </template>
 
@@ -166,21 +163,6 @@ onMounted(() => {
       }
       .main-aside {
         display: none;
-      }
-    }
-  }
-  .footer-info {
-    text-align: center;
-    margin-top: 2rem;
-    padding: 1rem 0;
-    font-size: 0.9rem;
-    opacity: 0.8;
-    a {
-      color: var(--vp-c-text-1);
-      text-decoration: none;
-      &:hover {
-        color: var(--vp-c-brand);
-        text-decoration: underline;
       }
     }
   }
