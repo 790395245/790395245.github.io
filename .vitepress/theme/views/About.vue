@@ -185,6 +185,30 @@ const { theme } = useData();
 // 技能数据
 const skillsData = [
   {
+    name: "Python",
+    color: "#3776AB",
+    icon: "python",
+    link: "https://www.python.org/",
+  },
+  {
+    name: "R",
+    color: "#149ECA",
+    icon: "r",
+    link: "https://www.r-project.org/",
+  },
+  {
+    name: "MySQL",
+    color: "#00758F",
+    icon: "mysql",
+    link: "https://www.mysql.com/",
+  },
+  {
+    name: "PostgreSQL",
+    color: "#336791",
+    icon: "postgresql",
+    link: "https://www.postgresql.org/",
+  },
+  {
     name: "JavaScript",
     color: "#f1e05abd",
     icon: "javascript",
@@ -209,11 +233,17 @@ const skillsData = [
     link: "https://cn.vuejs.org/",
   },
   {
-    name: "React",
-    color: "#149ECA",
-    icon: "react",
-    link: "https://zh-hans.reactjs.org/",
+    name: "VitePress",
+    color: "#41b883",
+    icon: "vitepress",
+    link: "https://vitepress.dev/",
   },
+  // {
+  //   name: "React",
+  //   color: "#149ECA",
+  //   icon: "react",
+  //   link: "https://zh-hans.reactjs.org/",
+  // },
   {
     name: "Node.js",
     color: "#026E00",
@@ -221,16 +251,16 @@ const skillsData = [
     link: "https://nodejs.org/",
   },
   {
-    name: "Python",
-    color: "#3776AB",
-    icon: "python",
-    link: "https://www.python.org/",
-  },
-  {
     name: "Docker",
     color: "#2496f2",
     icon: "docker",
     link: "https://www.docker.com/",
+  },
+  {
+    name: "Kubernetes",
+    color: "#326ce5",
+    icon: "kubernetes",
+    link: "https://kubernetes.io/",
   },
   {
     name: "Git",
@@ -243,6 +273,18 @@ const skillsData = [
     color: "#31A8FF",
     icon: "photoshop",
     link: "https://www.adobe.com/cn/lead/creativecloud/business.html",
+  },
+  {
+    name: "Fusion360",
+    color: "#fb6d07",
+    icon: "fusion360",
+    link: "https://www.autodesk.com/products/fusion-360/overview",
+  },
+  {
+    name: "CAD",
+    color: "#e51050",
+    icon: "cad",
+    link: "https://www.autodesk.com/products/autocad/overview",
   },
   {
     name: "ChatGPT",
