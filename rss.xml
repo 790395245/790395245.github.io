@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>RuoGe</title>
+        <link>https://ruo.ge</link>
+        <description>歌落繁华，若影随风</description>
+        <lastBuildDate>Wed, 04 Jun 2025 04:06:47 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>RuoRuo</generator>
+        <language>zh</language>
+        <copyright>Copyright © 2020-present RuoRuo</copyright>
+        <item>
+            <title><![CDATA[软件架构设计]]></title>
+            <link>https://ruo.ge/posts/2025-05/20250506</link>
+            <guid>https://ruo.ge/posts/2025-05/20250506</guid>
+            <pubDate>Tue, 06 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[软件架构设计]]></description>
+            <author>haoruo.chen@qq.com (RuoRuo)</author>
+        </item>
+        <item>
+            <title><![CDATA[测试驱动开发（TDD）指南]]></title>
+            <link>https://ruo.ge/posts/2025-04/20250414</link>
+            <guid>https://ruo.ge/posts/2025-04/20250414</guid>
+            <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[测试驱动开发（TDD）指南]]></description>
+            <author>haoruo.chen@qq.com (RuoRuo)</author>
+        </item>
+        <item>
+            <title><![CDATA[高效团队协作的 Git 工作流模型]]></title>
+            <link>https://ruo.ge/posts/2025-03/20250314</link>
+            <guid>https://ruo.ge/posts/2025-03/20250314</guid>
+            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[高效团队协作的 Git 工作流模型]]></description>
+            <author>haoruo.chen@qq.com (RuoRuo)</author>
+        </item>
+        <item>
+            <title><![CDATA[Python装饰器介绍]]></title>
+            <link>https://ruo.ge/posts/2025-03/20250311</link>
+            <guid>https://ruo.ge/posts/2025-03/20250311</guid>
+            <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Python装饰器的基本概念和使用方法介绍]]></description>
+            <author>haoruo.chen@qq.com (RuoRuo)</author>
+        </item>
+        <item>
+            <title><![CDATA[3D打印小米Su7Ultra车标-碳纤维24k镀金]]></title>
+            <link>https://ruo.ge/posts/2025-03/20250305</link>
+            <guid>https://ruo.ge/posts/2025-03/20250305</guid>
+            <pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[3D打印小米Su7Ultra车标-碳纤维24k镀金]]></description>
+            <author>haoruo.chen@qq.com (RuoRuo)</author>
+        </item>
+        <item>
+            <title><![CDATA[使用Git进行协同开发时处理分支冲突]]></title>
+            <link>https://ruo.ge/posts/2025-02/20250227</link>
+            <guid>https://ruo.ge/posts/2025-02/20250227</guid>
+            <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[使用Git进行协同开发时处理分支冲突]]></description>
+            <author>haoruo.chen@qq.com (RuoRuo)</author>
+        </item>
+        <item>
+            <title><![CDATA[VitePress适配Mermaid经验记录]]></title>
+            <link>https://ruo.ge/posts/2025-02/20250220</link>
+            <guid>https://ruo.ge/posts/2025-02/20250220</guid>
+            <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[VitePress适配Mermaid经验记录]]></description>
+            <author>haoruo.chen@qq.com (RuoRuo)</author>
+        </item>
+        <item>
+            <title><![CDATA[用Dify构建高效AI工作流：方法与实例]]></title>
+            <link>https://ruo.ge/posts/2025-02/20250219</link>
+            <guid>https://ruo.ge/posts/2025-02/20250219</guid>
+            <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[零代码实现智能化流程设计]]></description>
+            <author>haoruo.chen@qq.com (RuoRuo)</author>
+        </item>
+        <item>
+            <title><![CDATA[【转载】给 curve 博客新增朋友圈鱼塘页面]]></title>
+            <link>https://ruo.ge/posts/2024-11/110801</link>
+            <guid>https://ruo.ge/posts/2024-11/110801</guid>
+            <pubDate>Fri, 08 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[给 curve 博客新增朋友圈鱼塘页面，达到与安知鱼基本相同的效果]]></description>
+            <author>haoruo.chen@qq.com (RuoRuo)</author>
+        </item>
+        <item>
+            <title><![CDATA[【转载】给 curve 博客新增一个致谢页面]]></title>
+            <link>https://ruo.ge/posts/2024-11/110601</link>
+            <guid>https://ruo.ge/posts/2024-11/110601</guid>
+            <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[给 curve 博客新增一个致谢页面]]></description>
+            <author>haoruo.chen@qq.com (RuoRuo)</author>
+        </item>
+    </channel>
+</rss>
