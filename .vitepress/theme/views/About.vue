@@ -232,12 +232,6 @@ const skillsData = [
     icon: "vue",
     link: "https://cn.vuejs.org/",
   },
-  {
-    name: "VitePress",
-    color: "#41b883",
-    icon: "vitepress",
-    link: "https://vitepress.dev/",
-  },
   // {
   //   name: "React",
   //   color: "#149ECA",
