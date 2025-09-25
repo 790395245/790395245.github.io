@@ -9,11 +9,11 @@ comment: true
 <div class="payment-container">
   <div class="payment-item">
     <p class="payment-label">微信 / Wechat</p>
-    <img class="payment-image" src="https://blog.rz15.cn/wp-content/uploads/2025/02/mm_facetoface_collect_qrcode_1739720350104.jpg" alt="wechat receipt code" />
+    <img class="payment-image" src="https://cdn.rz15.cn/uploads/2025/02/mm_facetoface_collect_qrcode_1739720350104.jpg" alt="wechat receipt code" />
   </div>
   <div class="payment-item">
     <p class="payment-label">支付宝 / Alipay</p>
-    <img class="payment-image" src="https://blog.rz15.cn/wp-content/uploads/2025/02/1739720378997.jpg" alt="alipay receipt code" />
+    <img class="payment-image" src="https://cdn.rz15.cn/uploads/2025/02/1739720378997.jpg" alt="alipay receipt code" />
   </div>
 </div>
 

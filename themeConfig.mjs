@@ -7,7 +7,7 @@ export const themeConfig = {
     // 站点描述
     description: "歌落繁华，若影随风",
     // 站点logo
-    logo: "https://blog.rz15.cn/wp-content/uploads/2024/12/cropped-cropped-srchttp___c-ssl.duitang.com_uploads_item_202005_03_20200503193405_QavAd.thumb_.1000_0.jpegreferhttp___c-ssl.duitang-1.webp",
+    logo: "https://cdn.rz15.cn/uploads/2024/12/cropped-cropped-srchttp___c-ssl.duitang.com_uploads_item_202005_03_20200503193405_QavAd.thumb_.1000_0.jpegreferhttp___c-ssl.duitang-1.webp",
     // 站点地址
     site: "https://ruo.ge",
     // 语言
@@ -15,7 +15,7 @@ export const themeConfig = {
     // 作者
     author: {
       name: "RuoRuo",
-      cover: "https://blog.rz15.cn/wp-content/uploads/2024/12/cropped-cropped-srchttp___c-ssl.duitang.com_uploads_item_202005_03_20200503193405_QavAd.thumb_.1000_0.jpegreferhttp___c-ssl.duitang-1.webp",
+      cover: "https://cdn.rz15.cn/uploads/2024/12/cropped-cropped-srchttp___c-ssl.duitang.com_uploads_item_202005_03_20200503193405_QavAd.thumb_.1000_0.jpegreferhttp___c-ssl.duitang-1.webp",
       email: "haoruo.chen@qq.com",
       link: "https://ruo.ge",
     },
@@ -149,14 +149,14 @@ export const themeConfig = {
       name: "博客",
       list: [
         {
-          icon: "https://blog.rz15.cn/wp-content/uploads/2024/12/cropped-cropped-srchttp___c-ssl.duitang.com_uploads_item_202005_03_20200503193405_QavAd.thumb_.1000_0.jpegreferhttp___c-ssl.duitang-1.webp",
+          icon: "https://cdn.rz15.cn/uploads/2024/12/cropped-cropped-srchttp___c-ssl.duitang.com_uploads_item_202005_03_20200503193405_QavAd.thumb_.1000_0.jpegreferhttp___c-ssl.duitang-1.webp",
           name: "主站",
           url: "/",
         },
         {
-          icon: "https://blog.rz15.cn/wp-content/uploads/2024/12/cropped-cropped-srchttp___c-ssl.duitang.com_uploads_item_202005_03_20200503193405_QavAd.thumb_.1000_0.jpegreferhttp___c-ssl.duitang-1.webp",
+          icon: "https://cdn.rz15.cn/uploads/2024/12/cropped-cropped-srchttp___c-ssl.duitang.com_uploads_item_202005_03_20200503193405_QavAd.thumb_.1000_0.jpegreferhttp___c-ssl.duitang-1.webp",
           name: "WordPress站",
-          url: "https://blog.rz15.cn/",
+          url: "https://www.rz15.cn/",
         },
       ],
     },
@@ -179,7 +179,7 @@ export const themeConfig = {
       name: "项目",
       list: [
         {
-          icon: "https://blog.rz15.cn/wp-content/uploads/2024/12/cropped-cropped-srchttp___c-ssl.duitang.com_uploads_item_202005_03_20200503193405_QavAd.thumb_.1000_0.jpegreferhttp___c-ssl.duitang-1.webp",
+          icon: "https://cdn.rz15.cn/uploads/2024/12/cropped-cropped-srchttp___c-ssl.duitang.com_uploads_item_202005_03_20200503193405_QavAd.thumb_.1000_0.jpegreferhttp___c-ssl.duitang-1.webp",
           name: "Curve",
           url: "https://github.com/790395245/790395245.github.io",
         },
@@ -198,9 +198,9 @@ export const themeConfig = {
       coverLayout: 'both',
       // 默认封面(随机展示)
       defaultCover: [
-        'https://blog.rz15.cn/wp-content/uploads/2025/02/cropped-企业微信截图_17392409111989.png',
-        'https://blog.rz15.cn/wp-content/uploads/2025/02/a9c73a4cfc3ed6f8365aad8bf3fc954-scaled.jpg',
-        'https://blog.rz15.cn/wp-content/uploads/2025/02/5aac3f86fdfd5aa30189c1912ae9b89e.jpg'
+        'https://cdn.rz15.cn/uploads/2025/02/cropped-企业微信截图_17392409111989.png',
+        'https://cdn.rz15.cn/uploads/2025/02/a9c73a4cfc3ed6f8365aad8bf3fc954-scaled.jpg',
+        'https://cdn.rz15.cn/uploads/2025/02/5aac3f86fdfd5aa30189c1912ae9b89e.jpg'
       ]
     }
   },
@@ -355,9 +355,9 @@ export const themeConfig = {
   rewardData: {
     enable: true,
     // 微信二维码
-    wechat: "https://blog.rz15.cn/wp-content/uploads/2025/02/mm_facetoface_collect_qrcode_1739720350104.jpg",
+    wechat: "https://cdn.rz15.cn/uploads/2025/02/mm_facetoface_collect_qrcode_1739720350104.jpg",
     // 支付宝二维码
-    alipay: "https://blog.rz15.cn/wp-content/uploads/2025/02/1739720378997.jpg",
+    alipay: "https://cdn.rz15.cn/uploads/2025/02/1739720378997.jpg",
   },
   // 图片灯箱
   fancybox: {

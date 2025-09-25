@@ -38,7 +38,7 @@
         </div>
       </div>
       <!-- 生涯 -->
-      <div class="about-item career image" style="background-image: url(https://blog.rz15.cn/wp-content/uploads/2025/02/cropped-企业微信截图_17392409111989.png)">
+      <div class="about-item career image" style="background-image: url(https://cdn.rz15.cn/uploads/2025/02/cropped-企业微信截图_17392409111989.png)">
         <span class="tip">生涯</span>
         <span class="title2">
           <i>無限進步</i>
@@ -64,7 +64,7 @@
           </a>
         </span>
         <img
-          src="https://blog.rz15.cn/wp-content/uploads/2025/02/微信图片_20250217150318.png"
+          src="https://cdn.rz15.cn/uploads/2025/02/微信图片_20250217150318.png"
           alt="male"
           class="male"
         />
@@ -142,7 +142,7 @@
       <div class="about-item child">
         <div
           class="about-item map image"
-          style="background-image: url(https://blog.rz15.cn/wp-content/uploads/2025/02/企业微信截图_17397735685114-e1739775455968.png)"
+          style="background-image: url(https://cdn.rz15.cn/uploads/2025/02/企业微信截图_17397735685114-e1739775455968.png)"
         >
           <span class="position">我现在住在 <strong>中国，上海</strong></span>
         </div>

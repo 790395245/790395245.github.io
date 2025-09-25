@@ -51,10 +51,10 @@ const linkData = [
     typeDesc: "虚位以待",
     typeList: [
       {
-        name: "我自己的WordPress",
+        name: "我自己的WordPress[下线]",
         avatar: "https://ruo.ge/favicon.ico",
         desc: "有点卡顿，可以看看",
-        url: "https://blog.rz15.cn/",
+        url: "https://www.rz15.cn/",
       },
     ],
   },
