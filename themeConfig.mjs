@@ -78,15 +78,13 @@ export const themeConfig = {
         },
       ],
       // iconfont
-      [
-        "link",
-        {
-          crossorigin: "anonymous",
-          rel: "stylesheet",
-          href: "https://cdn.rz15.cn/file/iconfont.css",
-          // href: "https://cdn2.codesign.qq.com/icons/g5ZpEgx3z4VO6j2/latest/iconfont.css",
-        },
-      ],
+        [
+          "link",
+          {
+            rel: "stylesheet",
+            href: "/css/iconfont.css",
+          },
+        ],
       // Embed code
       ["link", { rel: "preconnect", href: "https://use.sevencdn.com" }],
       ["link", { rel: "preconnect", href: "https://fonts.gstatic.com", crossorigin: "" }],
