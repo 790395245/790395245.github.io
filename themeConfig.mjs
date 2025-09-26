@@ -309,8 +309,8 @@ export const themeConfig = {
       enable: true,
       // 倒计时日期
       data: {
-        name: "领证",
-        date: "2025-05-20",
+        name: "装修完成",
+        date: "2026-01-1",
       },
     },
     // 站点数据
