@@ -78,15 +78,13 @@ export const themeConfig = {
         },
       ],
       // iconfont
-      [
-        "link",
-        {
-          crossorigin: "anonymous",
-          rel: "stylesheet",
-          href: "https://www.rz15.cn/file/iconfont.css",
-          // href: "https://cdn2.codesign.qq.com/icons/g5ZpEgx3z4VO6j2/latest/iconfont.css",
-        },
-      ],
+        [
+          "link",
+          {
+            rel: "stylesheet",
+            href: "/css/iconfont.css",
+          },
+        ],
       // Embed code
       ["link", { rel: "preconnect", href: "https://use.sevencdn.com" }],
       ["link", { rel: "preconnect", href: "https://fonts.gstatic.com", crossorigin: "" }],
@@ -155,23 +153,18 @@ export const themeConfig = {
         },
         {
           icon: "https://cdn.rz15.cn/uploads/2024/12/cropped-cropped-srchttp___c-ssl.duitang.com_uploads_item_202005_03_20200503193405_QavAd.thumb_.1000_0.jpegreferhttp___c-ssl.duitang-1.webp",
-          name: "WordPress站",
+          name: "WordPress站[下线]",
           url: "https://www.rz15.cn/",
         },
       ],
     },
     {
-      name: "服务",
+      name: "网址导航",
       list: [
         {
-          icon: "https://nav.imsyy.top/favicon.ico",
+          icon: "https://www.rz15.cn/favicon.ico",
           name: "起始页",
-          url: "https://nav.imsyy.top/",
-        },
-        {
-          icon: "https://hot.imsyy.top/ico/favicon.png",
-          name: "今日热榜",
-          url: "https://hot.imsyy.top/",
+          url: "https://www.rz15.cn",
         },
       ],
     },
@@ -182,6 +175,11 @@ export const themeConfig = {
           icon: "https://cdn.rz15.cn/uploads/2024/12/cropped-cropped-srchttp___c-ssl.duitang.com_uploads_item_202005_03_20200503193405_QavAd.thumb_.1000_0.jpegreferhttp___c-ssl.duitang-1.webp",
           name: "Curve",
           url: "https://github.com/790395245/790395245.github.io",
+        },
+        {
+          icon: "https://cdn.rz15.cn/uploads/2024/12/cropped-cropped-srchttp___c-ssl.duitang.com_uploads_item_202005_03_20200503193405_QavAd.thumb_.1000_0.jpegreferhttp___c-ssl.duitang-1.webp",
+          name: "win-webhook-notif",
+          url: "https://github.com/790395245/win-webhook-notif",
         },
       ],
     },
@@ -311,8 +309,8 @@ export const themeConfig = {
       enable: true,
       // 倒计时日期
       data: {
-        name: "领证",
-        date: "2025-05-20",
+        name: "装修完成",
+        date: "2026-01-1",
       },
     },
     // 站点数据

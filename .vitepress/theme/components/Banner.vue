@@ -3,9 +3,17 @@
     <h1 class="title">你好，欢迎来到{{ theme.siteMeta.title }}</h1>
     <div class="subtitle">
       <Transition name="fade" mode="out-in">
-        <span :key="hitokotoData?.hitokoto" class="text">
-          {{ hitokotoData?.hitokoto ? hitokotoData?.hitokoto : theme.siteMeta.description }}
-        </span>
+          <span :key="hitokotoData?.hitokoto" class="text">
+            {{ hitokotoData?.hitokoto ? hitokotoData?.hitokoto : theme.siteMeta.description }}
+              <template v-if="hitokotoData?.from || hitokotoData?.from_who">
+                <br />
+                <span class="from-who">
+                  ——
+                  <template v-if="hitokotoData?.from_who">{{ hitokotoData.from_who }} </template>
+                  <template v-if="hitokotoData?.from">[{{ hitokotoData.from }}]</template>
+                </span>
+              </template>
+          </span>
       </Transition>
     </div>
     <Transition name="fade" mode="out-in">
