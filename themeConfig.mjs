@@ -345,7 +345,7 @@ export const themeConfig = {
   // 搜索
   // https://www.algolia.com/
   search: {
-    enable: true,
+    enable: false,
     appId: "TJ466X087L",
     apiKey: "ddb36c03f008bedad841a3572cfff0c9",
   },
