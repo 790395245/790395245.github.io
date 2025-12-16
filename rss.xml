@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>RuoGe</title>
+        <link>https://ruo.ge</link>
+        <description>歌落繁华，若影随风</description>
+        <lastBuildDate>Tue, 16 Dec 2025 06:49:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>RuoRuo</generator>
+        <language>zh</language>
+        <copyright>Copyright © 2020-present RuoRuo</copyright>
+        <item>
+            <title><![CDATA[写出优雅的Python（第四期：Python 代码质量守护与工程化最佳实践）]]></title>
+            <link>https://ruo.ge/posts/2025-09/20250925</link>
+            <guid>https://ruo.ge/posts/2025-09/20250925</guid>
+            <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[写出优雅的Python]]></description>
+            <author>haoruo.chen@qq.com (RuoRuo)</author>
+        </item>
+        <item>
+            <title><![CDATA[写出优雅的Python（第三期：Python 标准库和高级特性）]]></title>
+            <link>https://ruo.ge/posts/2025-08/20250821</link>
+            <guid>https://ruo.ge/posts/2025-08/20250821</guid>
+            <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[写出优雅的Python]]></description>
+            <author>haoruo.chen@qq.com (RuoRuo)</author>
+        </item>
+        <item>
+            <title><![CDATA[AI回答了我一些关于人生的深刻问题]]></title>
+            <link>https://ruo.ge/posts/2025-07/20250714</link>
+            <guid>https://ruo.ge/posts/2025-07/20250714</guid>
+            <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[AI的回答帮我稍微缓解了一些对工作和工作的迷茫]]></description>
+            <author>haoruo.chen@qq.com (RuoRuo)</author>
+        </item>
+        <item>
+            <title><![CDATA[写出优雅的Python（第二期：Python日志管理和报错捕获）]]></title>
+            <link>https://ruo.ge/posts/2025-07/20250710</link>
+            <guid>https://ruo.ge/posts/2025-07/20250710</guid>
+            <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[写出优雅的Python]]></description>
+            <author>haoruo.chen@qq.com (RuoRuo)</author>
+        </item>
+        <item>
+            <title><![CDATA[写出优雅的Python（第一期）（导言）]]></title>
+            <link>https://ruo.ge/posts/2025-06/20250620</link>
+            <guid>https://ruo.ge/posts/2025-06/20250620</guid>
+            <pubDate>Fri, 20 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[写出优雅的Python]]></description>
+            <author>haoruo.chen@qq.com (RuoRuo)</author>
+        </item>
+        <item>
+            <title><![CDATA[软件架构设计]]></title>
+            <link>https://ruo.ge/posts/2025-05/20250506</link>
+            <guid>https://ruo.ge/posts/2025-05/20250506</guid>
+            <pubDate>Tue, 06 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[软件架构设计]]></description>
+            <author>haoruo.chen@qq.com (RuoRuo)</author>
+        </item>
+        <item>
+            <title><![CDATA[测试驱动开发（TDD）指南]]></title>
+            <link>https://ruo.ge/posts/2025-04/20250414</link>
+            <guid>https://ruo.ge/posts/2025-04/20250414</guid>
+            <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[测试驱动开发（TDD）指南]]></description>
+            <author>haoruo.chen@qq.com (RuoRuo)</author>
+        </item>
+        <item>
+            <title><![CDATA[高效团队协作的 Git 工作流模型]]></title>
+            <link>https://ruo.ge/posts/2025-03/20250314</link>
+            <guid>https://ruo.ge/posts/2025-03/20250314</guid>
+            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[高效团队协作的 Git 工作流模型]]></description>
+            <author>haoruo.chen@qq.com (RuoRuo)</author>
+        </item>
+        <item>
+            <title><![CDATA[Python装饰器介绍]]></title>
+            <link>https://ruo.ge/posts/2025-03/20250311</link>
+            <guid>https://ruo.ge/posts/2025-03/20250311</guid>
+            <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Python装饰器的基本概念和使用方法介绍]]></description>
+            <author>haoruo.chen@qq.com (RuoRuo)</author>
+        </item>
+        <item>
+            <title><![CDATA[3D打印小米Su7Ultra车标-碳纤维24k镀金]]></title>
+            <link>https://ruo.ge/posts/2025-03/20250305</link>
+            <guid>https://ruo.ge/posts/2025-03/20250305</guid>
+            <pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[3D打印小米Su7Ultra车标-碳纤维24k镀金]]></description>
+            <author>haoruo.chen@qq.com (RuoRuo)</author>
+        </item>
+    </channel>
+</rss>
