@@ -7,7 +7,7 @@ export const themeConfig = {
     // 站点描述
     description: "歌落繁华，若影随风",
     // 站点logo
-    logo: "https://cdn.rz15.cn/uploads/2024/12/cropped-cropped-srchttp___c-ssl.duitang.com_uploads_item_202005_03_20200503193405_QavAd.thumb_.1000_0.jpegreferhttp___c-ssl.duitang-1.webp",
+    logo: "https://lsky.rz15.cn/i/2026/11/24/6b04f1012abb3.png",
     // 站点地址
     site: "https://ruo.ge",
     // 语言
@@ -15,7 +15,7 @@ export const themeConfig = {
     // 作者
     author: {
       name: "RuoRuo",
-      cover: "https://cdn.rz15.cn/uploads/2024/12/cropped-cropped-srchttp___c-ssl.duitang.com_uploads_item_202005_03_20200503193405_QavAd.thumb_.1000_0.jpegreferhttp___c-ssl.duitang-1.webp",
+      cover: "https://lsky.rz15.cn/i/2026/11/24/6b04f1012abb3.png",
       email: "haoruo.chen@qq.com",
       link: "https://ruo.ge",
     },
@@ -147,12 +147,12 @@ export const themeConfig = {
       name: "博客",
       list: [
         {
-          icon: "https://cdn.rz15.cn/uploads/2024/12/cropped-cropped-srchttp___c-ssl.duitang.com_uploads_item_202005_03_20200503193405_QavAd.thumb_.1000_0.jpegreferhttp___c-ssl.duitang-1.webp",
+          icon: "https://lsky.rz15.cn/i/2026/11/24/6b04f1012abb3.png",
           name: "主站",
           url: "/",
         },
         {
-          icon: "https://cdn.rz15.cn/uploads/2024/12/cropped-cropped-srchttp___c-ssl.duitang.com_uploads_item_202005_03_20200503193405_QavAd.thumb_.1000_0.jpegreferhttp___c-ssl.duitang-1.webp",
+          icon: "https://lsky.rz15.cn/i/2026/11/24/6b04f1012abb3.png",
           name: "WordPress站[下线]",
           url: "https://www.rz15.cn/",
         },
@@ -172,12 +172,12 @@ export const themeConfig = {
       name: "项目",
       list: [
         {
-          icon: "https://cdn.rz15.cn/uploads/2024/12/cropped-cropped-srchttp___c-ssl.duitang.com_uploads_item_202005_03_20200503193405_QavAd.thumb_.1000_0.jpegreferhttp___c-ssl.duitang-1.webp",
+          icon: "https://lsky.rz15.cn/i/2026/11/24/6b04f1012abb3.png",
           name: "Curve",
           url: "https://github.com/790395245/790395245.github.io",
         },
         {
-          icon: "https://cdn.rz15.cn/uploads/2024/12/cropped-cropped-srchttp___c-ssl.duitang.com_uploads_item_202005_03_20200503193405_QavAd.thumb_.1000_0.jpegreferhttp___c-ssl.duitang-1.webp",
+          icon: "https://lsky.rz15.cn/i/2026/11/24/6b04f1012abb3.png",
           name: "win-webhook-notif",
           url: "https://github.com/790395245/win-webhook-notif",
         },
@@ -196,9 +196,9 @@ export const themeConfig = {
       coverLayout: 'both',
       // 默认封面(随机展示)
       defaultCover: [
-        'https://cdn.rz15.cn/uploads/2025/02/cropped-企业微信截图_17392409111989.png',
-        'https://cdn.rz15.cn/uploads/2025/02/a9c73a4cfc3ed6f8365aad8bf3fc954-scaled.jpg',
-        'https://cdn.rz15.cn/uploads/2025/02/5aac3f86fdfd5aa30189c1912ae9b89e.jpg'
+        'https://lsky.rz15.cn/i/2026/11/24/6b04f15e80730.png',
+        'https://lsky.rz15.cn/i/2026/11/24/6b04f16b73491.jpg',
+        'https://lsky.rz15.cn/i/2026/11/24/6b04f17055adf.jpg'
       ]
     }
   },
@@ -353,9 +353,9 @@ export const themeConfig = {
   rewardData: {
     enable: true,
     // 微信二维码
-    wechat: "https://cdn.rz15.cn/uploads/2025/02/mm_facetoface_collect_qrcode_1739720350104.jpg",
+    wechat: "https://lsky.rz15.cn/i/2026/11/24/6b04f0ee0dbc5.jpg",
     // 支付宝二维码
-    alipay: "https://cdn.rz15.cn/uploads/2025/02/1739720378997.jpg",
+    alipay: "https://lsky.rz15.cn/i/2026/11/24/6b04f0f2558bb.jpg",
   },
   // 图片灯箱
   fancybox: {
