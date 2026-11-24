@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>RuoGe</title>
+        <link>https://ruo.ge</link>
+        <description>歌落繁华，若影随风</description>
+        <lastBuildDate>Tue, 24 Nov 2026 02:09:49 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>RuoRuo</generator>
+        <language>zh</language>
+        <copyright>Copyright © 2020-present RuoRuo</copyright>
+        <item>
+            <title><![CDATA[从零手写一个 Mini Claude Code：编码智能体原理实战]]></title>
+            <link>https://ruo.ge/posts/2026-10/20261028</link>
+            <guid>https://ruo.ge/posts/2026-10/20261028</guid>
+            <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[用约 300 行 Python 从零实现一个能真正读写文件、执行命令、重构代码的编码智能体，彻底讲透 Claude Code 类工具的核心原理。]]></description>
+            <author>haoruo.chen@qq.com (RuoRuo)</author>
+        </item>
+        <item>
+            <title><![CDATA[Agent 评测（Evals）实战：如何科学衡量一个智能体]]></title>
+            <link>https://ruo.ge/posts/2026-09/20260920</link>
+            <guid>https://ruo.ge/posts/2026-09/20260920</guid>
+            <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[从统计原理到工程落地，系统讲解如何构建 Agent 评测体系：评测的三个层次、eval set 构建、LLM-as-judge 偏差、pass@k 与回归防御。]]></description>
+            <author>haoruo.chen@qq.com (RuoRuo)</author>
+        </item>
+        <item>
+            <title><![CDATA[Agent 沙箱与安全隔离：从权限模型到操作系统级防护]]></title>
+            <link>https://ruo.ge/posts/2026-08/20260830</link>
+            <guid>https://ruo.ge/posts/2026-08/20260830</guid>
+            <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[系统梳理 Agent 执行环境的安全隔离体系：从权限确认、应用层沙箱、系统层沙箱到云端隔离的四层防护模型，以及 rwx 权限矩阵与成本权衡。]]></description>
+            <author>haoruo.chen@qq.com (RuoRuo)</author>
+        </item>
+        <item>
+            <title><![CDATA[工具设计的艺术：写给 Agent 的 API 与写给人的 API 有什么不同]]></title>
+            <link>https://ruo.ge/posts/2026-07/20260725</link>
+            <guid>https://ruo.ge/posts/2026-07/20260725</guid>
+            <pubDate>Sat, 25 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Agent 的工具就是它的感官与四肢：从人机 API 消费差异出发，拆解工具描述写法、错误信息设计、粒度权衡、幂等并发与 token 成本，并给出一份工具设计 checklist。]]></description>
+            <author>haoruo.chen@qq.com (RuoRuo)</author>
+        </item>
+        <item>
+            <title><![CDATA[上下文工程实战：Context Window 的极限运营]]></title>
+            <link>https://ruo.ge/posts/2026-06/20260618</link>
+            <guid>https://ruo.ge/posts/2026-06/20260618</guid>
+            <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[从 prompt engineering 到 context engineering 的范式迁移：拆解上下文的构成、context rot 的机理，以及 just-in-time 检索、compaction、结构化笔记、subagent 隔离等核心策略的实战细节。]]></description>
+            <author>haoruo.chen@qq.com (RuoRuo)</author>
+        </item>
+        <item>
+            <title><![CDATA[解码 Agent Harness：Claude Code 这类编码智能体的运行时到底做了什么]]></title>
+            <link>https://ruo.ge/posts/2026-05/20260522</link>
+            <guid>https://ruo.ge/posts/2026-05/20260522</guid>
+            <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[拆解 Claude Code 等编码智能体的运行时（Harness）架构：主循环、工具层、权限系统、子智能体与上下文管理，并给出自研 Harness 的组件清单。]]></description>
+            <author>haoruo.chen@qq.com (RuoRuo)</author>
+        </item>
+        <item>
+            <title><![CDATA[MCP 安全性剖析：鉴权、提示注入与供应链风险]]></title>
+            <link>https://ruo.ge/posts/2026-04/20260410</link>
+            <guid>https://ruo.ge/posts/2026-04/20260410</guid>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[一句话简介：系统梳理 MCP 引入的三类威胁——恶意 Server、间接提示注入与权限混淆，剖析 OAuth 2.1 鉴权与 token audience 校验机制，并给出一套可落地的防御体系与第三方 Server 接入评估清单。]]></description>
+            <author>haoruo.chen@qq.com (RuoRuo)</author>
+        </item>
+        <item>
+            <title><![CDATA[MCP Server 实战：用 Python SDK 从零构建生产级 Server]]></title>
+            <link>https://ruo.ge/posts/2026-03/20260315</link>
+            <guid>https://ruo.ge/posts/2026-03/20260315</guid>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[一句话简介：以一个贯穿全文的"文件笔记服务器"为例，用 FastMCP 从参数校验、资源模板、Prompt 到 Streamable HTTP 部署、生命周期管理与调试，完整走通生产级 MCP Server 的构建路径。]]></description>
+            <author>haoruo.chen@qq.com (RuoRuo)</author>
+        </item>
+        <item>
+            <title><![CDATA[MCP 协议深度解析：架构、传输层与能力协商]]></title>
+            <link>https://ruo.ge/posts/2026-02/20260220</link>
+            <guid>https://ruo.ge/posts/2026-02/20260220</guid>
+            <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[一句话简介：从 M×N 集成困境出发，深入拆解 MCP 的三角色架构、JSON-RPC 2.0 消息模型、stdio 与 Streamable HTTP 传输、能力协商机制与三大核心原语。]]></description>
+            <author>haoruo.chen@qq.com (RuoRuo)</author>
+        </item>
+        <item>
+            <title><![CDATA[今天用ClaudeCode做了个微信聊天记录年度报告]]></title>
+            <link>https://ruo.ge/posts/2026-01/20260106</link>
+            <guid>https://ruo.ge/posts/2026-01/20260106</guid>
+            <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[本文纯日常吹水]]></description>
+            <author>haoruo.chen@qq.com (RuoRuo)</author>
+        </item>
+    </channel>
+</rss>
